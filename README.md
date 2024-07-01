@@ -20,5 +20,20 @@ This game showcases not only my skills in using c, but mostly showcases my knowl
 4)  Every row and every column is unique.
 
  # How to Run this game
+ Attached are a number of files, this includes:
+ 1 - Makefile
+ 1 - main.c file
+ 1 - tictac.S file
+ 4 - size.tictac files
+
+ Once they are all in the same directory, type "make" in the terminal to use the makefile to asseble an executable program
+
+ Then run the file, while also specifying which version(size) of the game to use. 
+
+ Here are some examples:
+
+ ./tictac 4x4.tictac
+./tictac 8x12hard.tictac
+
 
  
